@@ -1,0 +1,2 @@
+# AbdulRafay-AI
+ CLI calculator
